@@ -39,3 +39,15 @@ Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de te
 ###### Sexto nivell de encabezado
 
 ```
+
+**Enlaces**
+```
+[Texto Clickeable](URL "Titulo Opcional")
+```
+[Pagina web de Jesuitas](https://www.fje.edu/es/fje "Titulo Opcional")
+
+### Como poner una imagen
+```
+![TextoAlternativo](ubicaciondelaImagen "Titulo opcional")
+```
+![Imagen de vemon](venom.jpeg "Venom")
