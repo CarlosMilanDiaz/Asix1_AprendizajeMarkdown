@@ -51,3 +51,14 @@ Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de te
 ![TextoAlternativo](ubicaciondelaImagen "Titulo opcional")
 ```
 ![Imagen de vemon](venom.jpeg "Venom")
+
+### Tablas
+
+|Titulo 1| Titulo 2 | Titulo 3|
+|----------|:-------------------:|------------------------:|
+|SMX2 |Curso 2324|250€|
+|**ASIX1** |Curso 2324|250€|
+|DAW2 |Curso 2324|250€|
+
+
+
